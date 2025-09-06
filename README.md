@@ -16,7 +16,7 @@ An intelligent web application designed to proactively discover and assess the r
 </p>
 </div>
 
-##✨ Key Features
+## ✨ Key Features
 
 🔐 Secure User Authentication: Full registration and login system with email confirmation and optional Two-Factor Authentication (2FA).
 

@@ -60,7 +60,8 @@ The score is calculated as a sum of the following points:
 
 🔡 Suspicious Keywords in Domain (+10 points): Words like login, secure, or verify in the domain name increase the risk.
 
-Risk Score Categorization:
+## Risk Score Categorization:
+
 🟢 0-39 (Low Risk): Unlikely to be a direct threat. May be a parked or unrelated domain.
 
 🟡 40-69 (Medium Risk): Exhibits several suspicious characteristics. Caution is strongly advised.

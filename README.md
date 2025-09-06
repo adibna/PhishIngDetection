@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/user-attachments/assets/1961405e-855f-4a0b-93ca-a39c9f4d7f57" alt="Logo" width="120" height="120">
+<img src="https://static.wikia.nocookie.net/minecraft_pt-br/images/a/a3/Pufferfish_JE2_BE2.png/revision/latest" alt="Logo" width="120" height="120">
 <h1>PhishIngDetection</h1>
 <p><strong>A Proactive Threat Hunting Web Application</strong></p>
 

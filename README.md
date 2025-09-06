@@ -16,7 +16,8 @@ An intelligent web application designed to proactively discover and assess the r
 </p>
 </div>
 
-✨ Key Features
+##✨ Key Features
+
 🔐 Secure User Authentication: Full registration and login system with email confirmation and optional Two-Factor Authentication (2FA).
 
 ⚙️ Dynamic Domain Permutation Engine: Generates dozens of phishing variations from a target domain using common attack techniques.
@@ -29,7 +30,8 @@ An intelligent web application designed to proactively discover and assess the r
 
 🎨 Interactive Web Interface: A clean, responsive frontend built with Bootstrap, featuring a custom theme, dynamic results table, and user-friendly components.
 
-⚙️ How It Works
+## ⚙️ How It Works
+
 The application follows a two-phase analysis pipeline to deliver fast and comprehensive results:
 
 ➡️ Input & Generation: A user enters a target domain (e.g., company.com). The backend engine immediately generates a list of potential phishing variations (companny.com, company-login.com, etc.).
@@ -46,7 +48,7 @@ Live Page Analysis: Securely fetches the website's HTML to analyze its content f
 
 📈 Scoring & Display: The collected data is fed into the Risk Score algorithm. The final results are sorted by the highest risk and displayed in a clear, color-coded table.
 
-💯 The Risk Score Explained
+## 💯 The Risk Score Explained
 The Risk Score is the core differentiator of the PhishIngDetection tool. It is a heuristic score from 0 to 100, calculated by combining multiple weighted factors to provide a more intelligent and actionable assessment.
 
 The score is calculated as a sum of the following points:

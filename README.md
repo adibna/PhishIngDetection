@@ -1,5 +1,6 @@
 <div align="center">
-  
+<img width="160" height="160" alt="Image" src="https://github.com/user-attachments/assets/aef93ca3-8ece-43e3-b33d-2474b2e834d2" />
+
 <h1>PhishIngDetection</h1>
 <p><strong>A Proactive Threat Hunting Web Application</strong></p>
 

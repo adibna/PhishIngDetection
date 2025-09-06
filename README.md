@@ -1,5 +1,4 @@
 <div align="center">
-![Image](https://github.com/user-attachments/assets/1cbd1c99-ce13-4e32-88bb-c7da40c3a003)
   
 <h1>PhishIngDetection</h1>
 <p><strong>A Proactive Threat Hunting Web Application</strong></p>

@@ -67,3 +67,5 @@ The score is calculated as a sum of the following points:
 🟡 40-69 (Medium Risk): Exhibits several suspicious characteristics. Caution is strongly advised.
 
 🔴 70-100 (High Risk): Shows multiple, strong indicators of being a phishing or malicious site. Avoid this domain.
+
+<img width="1885" height="944" alt="Image" src="https://github.com/user-attachments/assets/6beb58b3-e922-45e9-badb-d3d6dbddc2c8" />
